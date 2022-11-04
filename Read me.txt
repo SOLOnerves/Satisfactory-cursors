@@ -1,0 +1,7 @@
+v.1.2
+The cursors design was inspired from a game called Satisfactory
+
+- The loading cursors aren't modified to be satisfactory themed
+
+Created by SOLOnerves 20.10.2021
+Updated by SoloNerves 04.11.2022
